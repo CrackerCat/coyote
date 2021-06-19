@@ -34,3 +34,4 @@ Additionally it can put you in a bad place **legally** if ~~internal builds (sym
 
 > Program participants have access to extensive documentation and a dedicated forum with Apple engineers for collaborative purposes. 
 
+[5] Security Research Device Cohort 2021 https://srd.cx/apple-security-research-device-cohort-2021/
